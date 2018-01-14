@@ -1,0 +1,15 @@
+{
+  "name": "homepage",
+  "version": "1.0.0",
+  "description": "Homepage",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github-agualabs:agualabs/homepage.git"
+  },
+  "author": "Marc Palm",
+  "license": "ISC"
+}
