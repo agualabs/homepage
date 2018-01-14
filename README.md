@@ -26,4 +26,4 @@ Hosted on Firebase.
 
 
 Dependencies:
-- `npm install -g firebase-tools `
+- `npm install -g firebase-tools`
