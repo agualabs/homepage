@@ -1,6 +1,8 @@
 # Homepage
 This project contains the source code for our static homepage https://agualabs.com.
 
+[ ![Codeship Status for agualabs/homepage](https://app.codeship.com/projects/d4b0e3a0-db66-0135-8b29-029911bb1fd3/status?branch=master)](https://app.codeship.com/projects/264671)
+
 Alternative version:
 - https://*.agualabs.com
 - https://*.agualabs.de
