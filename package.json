@@ -11,5 +11,9 @@
     "url": "git@github-agualabs:agualabs/homepage.git"
   },
   "author": "Marc Palm",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "jest-cli": "^22.0.6",
+    "standard": "^10.0.3"
+  }
 }

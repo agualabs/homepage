@@ -5,22 +5,24 @@ This project contains the source code for our static homepage https://agualabs.c
 [![codecov](https://codecov.io/gh/agualabs/homepage/branch/master/graph/badge.svg)](https://codecov.io/gh/agualabs/homepage)
 
 Alternative version:
-- [https://agualabs.com] [![Codeship Status for agualabs/homepage](https://agualabs.com/logo.png)](https://agualabs.com )
-- https://*.agualabs.com
-- https://*.agualabs.de
-- https://*.agualabs.it
-- https://*.agualabs.es
-- https://*.agualabs.in
-- https://*.agualabs.net
-- https://*.agualabs.org
-- https://*.agualabs.eu
-- https://*.agualabs.at
-- https://*.agualabs.ch
-- https://*.agualabs.ru
-- https://*.agualabs.in
-- https://*.agualabs.asia
-- https://*.agualabs.cn
-- https://*.agualabs.co.uk
+- <img src="https://agualabs-com.firebaseapp.com/logo.ico" alt="ERROR!" style="width: 20px;" />[https://agualabs-com.firebaseapp.com](https://agualabs-com.firebaseapp.com)
+- <img src="https://agualabs.com/logo.ico" alt="ERROR!" style="width: 20px;"/>[https://agualabs.com](https://agualabs.com)
+- <img src="https://www.agualabs.com/logo.ico" alt="ERROR!" style="width: 20px;"/>https://www.agualabs.com
+- <img src="http://www.agualabs.com/logo.ico" alt="ERROR!" style="width: 20px;"/>[http://www.agualabs.com](http://www.agualabs.com)
+- https://www.agualabs.de
+- https://www.agualabs.it
+- https://www.agualabs.es
+- https://www.agualabs.in
+- https://www.agualabs.net
+- https://www.agualabs.org
+- https://www.agualabs.eu
+- https://www.agualabs.at
+- https://www.agualabs.ch
+- https://www.agualabs.ru
+- https://www.agualabs.in
+- https://www.agualabs.asia
+- https://www.agualabs.cn
+- https://www.agualabs.co.uk
 
 
 Hosted on Firebase.
