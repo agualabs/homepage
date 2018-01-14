@@ -19,3 +19,10 @@ Alternative version:
 - https://*.agualabs.asia
 - https://*.agualabs.cn
 - https://*.agualabs.co.uk
+
+
+Hosted on Firebase.
+
+
+Dependencies:
+- `npm install -g firebase-tools `
